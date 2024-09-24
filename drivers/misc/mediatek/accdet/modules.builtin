@@ -1,0 +1,2 @@
+kernel/drivers/misc/mediatek/accdet/accdet_drv.ko
+kernel/drivers/misc/mediatek/accdet/mt6735/accdet.ko

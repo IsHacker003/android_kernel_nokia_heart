@@ -1,0 +1,2 @@
+kernel/drivers/misc/mediatek/leds/leds_drv.ko
+kernel/drivers/misc/mediatek/leds/mt6735/leds.ko

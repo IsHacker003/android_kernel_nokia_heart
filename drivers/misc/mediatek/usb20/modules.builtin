@@ -1,0 +1,5 @@
+kernel/drivers/misc/mediatek/usb20/musb_hdrc.ko
+kernel/drivers/misc/mediatek/usb20/mt6735/usb20.ko
+kernel/drivers/misc/mediatek/usb20/mt6735/usb20_phy.ko
+kernel/drivers/misc/mediatek/usb20/mt6735/usb20_host.ko
+kernel/drivers/misc/mediatek/usb20/mt6735/usb20_phy_debugfs.ko

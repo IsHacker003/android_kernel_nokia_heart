@@ -1,0 +1,3 @@
+kernel/drivers/power/mediatek/battery_meter_fg_20.ko
+kernel/drivers/power/mediatek/battery_common_fg_20.ko
+kernel/drivers/power/mediatek/switch_charging.ko

@@ -1,0 +1,2 @@
+kernel/drivers/misc/mediatek/thermal/mt6735/src/mtk_tc_D2.ko
+kernel/drivers/misc/mediatek/thermal/mt6735/src/mtk_pmic_efuse.ko

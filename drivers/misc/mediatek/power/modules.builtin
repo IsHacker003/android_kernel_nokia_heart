@@ -1,0 +1,5 @@
+kernel/drivers/misc/mediatek/power/mt6735/battery_meter_hal.ko
+kernel/drivers/misc/mediatek/power/mt6735/pmic_chr_type_det.ko
+kernel/drivers/misc/mediatek/power/mt6735/rt9458.ko
+kernel/drivers/misc/mediatek/power/mt6735/bq24157.ko
+kernel/drivers/misc/mediatek/power/mt6735/charging_hw_bq24157.ko

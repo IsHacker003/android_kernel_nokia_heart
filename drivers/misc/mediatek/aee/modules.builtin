@@ -1,0 +1,4 @@
+kernel/drivers/misc/mediatek/aee/aed/aed.ko
+kernel/drivers/misc/mediatek/aee/ipanic/ipanic.ko
+kernel/drivers/misc/mediatek/aee/mrdump/mrdump_mini.ko
+kernel/drivers/misc/mediatek/aee/mrdump/mrdump_control.ko

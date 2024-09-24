@@ -1,0 +1,3 @@
+kernel/drivers/misc/mediatek/lens/main/mainaf.ko
+kernel/drivers/misc/mediatek/lens/main2/main2af.ko
+kernel/drivers/misc/mediatek/lens/sub/subaf.ko

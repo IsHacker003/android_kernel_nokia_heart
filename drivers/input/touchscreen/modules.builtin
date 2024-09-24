@@ -1,0 +1,2 @@
+kernel/drivers/input/touchscreen/of_touchscreen.ko
+kernel/drivers/input/touchscreen/mediatek/tpd_common_probe.ko

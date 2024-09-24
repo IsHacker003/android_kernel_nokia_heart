@@ -1,0 +1,7 @@
+kernel/drivers/misc/mediatek/teei/280/teei_fp/fp_func.ko
+kernel/drivers/misc/mediatek/teei/280/tz_dcih/tz_dcih.ko
+kernel/drivers/misc/mediatek/teei/280/tz_dcih/tz_dcih_test.ko
+kernel/drivers/misc/mediatek/teei/280/tz_driver/teei.ko
+kernel/drivers/misc/mediatek/teei/280/tz_vfs/vfsFun.ko
+kernel/drivers/misc/mediatek/teei/280/tz_vfs/fp_vendor.ko
+kernel/drivers/misc/mediatek/teei/280/ut_keymaster/ut_keymaster.ko

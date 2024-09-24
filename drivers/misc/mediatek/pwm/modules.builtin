@@ -1,0 +1,2 @@
+kernel/drivers/misc/mediatek/pwm/mt_pwm.ko
+kernel/drivers/misc/mediatek/pwm/mt6735/mt_pwm_hal.ko

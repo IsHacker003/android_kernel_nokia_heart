@@ -1,0 +1,5 @@
+kernel/drivers/mmc/host/mediatek/emmc_rpmb.ko
+kernel/drivers/mmc/host/mediatek/mt6735/msdc_hw_ett.ko
+kernel/drivers/mmc/host/mediatek/mt6735/sd.ko
+kernel/drivers/mmc/host/mediatek/mt6735/dbg.ko
+kernel/drivers/mmc/host/mediatek/mt6735/mt_sd_misc.ko

@@ -1,0 +1,7 @@
+kernel/drivers/input/input-core.ko
+kernel/drivers/input/evdev.ko
+kernel/drivers/input/keyboard/mediatek/kpd.ko
+kernel/drivers/input/keyboard/mediatek/mt6735/hal_kpd.ko
+kernel/drivers/input/misc/uinput.ko
+kernel/drivers/input/touchscreen/of_touchscreen.ko
+kernel/drivers/input/touchscreen/mediatek/tpd_common_probe.ko

@@ -1,0 +1,2 @@
+kernel/drivers/spi/mediatek/mt6735/spi.ko
+kernel/drivers/spi/mediatek/mt6735/spi-dev.ko
