@@ -13,7 +13,7 @@ sudo ln -sfn '/usr/local/bin/python2.7' '/usr/bin/python2'
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python2 1
 ```
 Now start the compilation process:
-1. Clone this toolchain into the kernel's directory: ``git clone https://github.com/IsHacker003/toolchain_aarch64-linux-android-4.9``
+1. Clone this toolchain into the kernel's directory: ``git clone https://github.com/IsHacker-kernel/toolchain_aarch64-linux-android-4.9``
 2. Type these commands:
    ```
    export ARCH=arm64
